@@ -17,7 +17,7 @@ The repository is centered around the core Power BI file (Meta_Dashboard.pbix), 
 _Getting Started_
 **Prerequisites: **Ensure you have the latest version of Power BI Desktop installed.
 
-
-Installation: Clone this repository and open the Meta_Dashboard.pbix file.
-
-Data Refresh: Connect your specific Meta API credentials or local data sources to populate the dashboard with your own metrics.
+**output**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f2a3a1a7-196b-4d39-b868-2aab82e9c4c3" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f553d71b-a5f4-499b-b854-292b60d1b1b3" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ea70831f-f7d8-46cb-9001-5cd4cf30bdb7" />
